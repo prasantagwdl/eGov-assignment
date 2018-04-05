@@ -1,0 +1,38 @@
+button[type=submit] {
+  width: 100%;
+  background-color: #8B79F7;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.wrapper {
+  position: relative;
+  color: #000000;
+}
+
+.inputText {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.label {
+  margin: 10px 0;
+  display: inline-block;
+  position: relative;
+  left: -195px;
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  display: inline-block;
+  box-sizing: border-box;
+}
